@@ -111,6 +111,7 @@ namespace RP.Localization
 	        {
 		        Debug.LogWarningFormat("Translation not found: {localizationKey} ({0}).", Language);
 
+
 		        return Dictionary["English"].ContainsKey(localizationKey) ? Dictionary["English"][localizationKey] : localizationKey;
 	        }
 
