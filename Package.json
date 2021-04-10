@@ -1,0 +1,14 @@
+{
+  "name": "com.rp.localization",
+  "version": "0.0.1",
+  "displayName": "Localization Manager",
+  "description": "Simple localization with runtime language change and csv downloader from google sheets",
+  "unity": "2018.1",
+  "keywords": [
+    "Localization"
+  ],
+  "author": {
+    "name": "Ramesh Poreddy",
+    "email": "ramesh.poreddy@gmail.com"
+  }
+}
